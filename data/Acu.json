@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=WimrbJNSwQw",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=QeaVG3KygbA&list=PL0cWxostc5n6nlaEocNyVTGNDEvio3jyR&index=15",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
