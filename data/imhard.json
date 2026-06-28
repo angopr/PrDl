@@ -1,0 +1,18 @@
+{
+    "id": 72744364,
+    "name": "Hard machine",
+    "author": "",
+    "creators": [""],
+    "verifier": "MacChunky",
+    "verification": "https://www.youtube.com/watch?v=hZbGxaFPM40",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZekiDash",
+            "link": "https://youtu.be/KQwkvjEyVFc?is=5Md9fehpkkKVI_eu",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
